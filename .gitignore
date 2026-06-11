@@ -1,0 +1,6 @@
+# Archivos de sistema y carpetas temporales
+.DS_Store
+.vscode/
+Thumbs.db
+node_modules/
+dist/
