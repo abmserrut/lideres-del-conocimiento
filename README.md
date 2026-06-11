@@ -18,3 +18,6 @@ Portal institucional desarrollado para el Club de Reporteros del ITSE en colabor
 ## 🛠️ Cómo ejecutar
 1. Clona este repositorio.
 2. Abre `index.html` en tu navegador.
+
+> **Nota de optimización:** El contenido multimedia está alojado en servicios de terceros para garantizar la velocidad de carga. 
+> Puedes consultar los recursos originales en: [Enlace a tu canal o servidor]
